@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Connector.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Dosen/ModelDosen.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Dosen/ModelTabelDosen.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Main/Menu.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Dosen/DosenDAO.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Controller/ControllerMahasiswa.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/View/Mahasiswa/MahasiswaView.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Mahasiswa/ModelMahasiswa.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Mahasiswa/ModelTabelMahasiswa.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/View/Dosen/DosenView.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Model/Mahasiswa/MahasiswaDAO.java</file>
+            <file>file:/D:/workspace/Java/123230136_SarahAN/src/Controller/ControllerDosen.java</file>
+        </group>
+    </open-files>
+</project-private>
